@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-nynorsk
 Version:	55189
-Release:	1
+Release:	2
 Summary:	Nynorsk language module for the glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-nynorsk
