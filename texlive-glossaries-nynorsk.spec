@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Nynorsk language module for the glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-nynorsk
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-nynorsk
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-nynorsk.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-nynorsk.doc.r%{version}.tar.xz
